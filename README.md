@@ -16,7 +16,7 @@
 - 🎯 Goal: Make the internet safer, one bug at a time.
 - 📫 How to reach me:
 
--## 🛠️ SKILLS & TOOLS
+## 🛠️ SKILLS & TOOLS
 
 | Category          | Tools & Technologies                     |
 |-------------------|-----------------------------------------|
