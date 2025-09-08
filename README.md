@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm <span style="color:#00ff9f">EvilmaxSec</span> </h1>
 <p align="center">
-  <img src="https://giphy.com/gifs/cc0studios-mfer-normal-vibe-coding-H03PuVdwREB21ANkLX.gif" alt="Hacker GIF" width="400" />
+  <img src="coding-vibe.gif" alt="coding GIF" width="400" />
 </p>
 
 <p align="center">
