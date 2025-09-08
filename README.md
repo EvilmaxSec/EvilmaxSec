@@ -26,6 +26,10 @@
 | 🔧 Tools          | Git, Docker, VSCode, Vim                 |
 | 🌐 Web Security   | OWASP Top 10, SQL Injection, XSS        |
 
-⚠️ Disclaimer
+## PROJECTS
+
+
+
+## ⚠️ Disclaimer
 
 This GitHub profile and projects are intended for educational and ethical hacking purposes only. Unauthorized use or hacking is illegal and unethical.
