@@ -1,4 +1,5 @@
-<h1 align="center">Hey there, I'm <span style="color:#00ff9f">EvilmaxSec</span> </h1>
+<h1 align="center">Hey there, I'm <span style="color:#00ff9f">EvilmaxSec</span> 👋</h1>
+
 <p align="center">
   <img src="coding-vibe.gif" alt="coding GIF" width="400" />
 </p>
@@ -8,28 +9,59 @@
 </p>
 
 ---
-## About Me
-- 🔐 Passionate about cybersecurity, ethical hacking, and protecting digital worlds.
-- 🕵️‍♂️ Skilled in penetration testing, vulnerability assessment, and network security.
-- 🌱 Constantly learning new hacking techniques, tools, and technologies.
-- 💬 Ask me about JavaScript, Python, or Linux
-- 🎯 Goal: Make the internet safer, one bug at a time.
-- 📫 How to reach me: evilmaxSec@proton.me
 
-## 🛠️ SKILLS & TOOLS
+## 🧠 About Me
 
-| Category          | Tools & Technologies                     |
-|-------------------|-----------------------------------------|
-| 💻 Programming    | Python, Bash, JavaScript, C             |
-| 🛡️ Pentesting     | Nmap, Metasploit, Burp Suite, Wireshark |
-| 🖥️ Platforms      | Kali Linux, Parrot OS, Windows, Linux   |
-| 🔧 Tools          | Git, Docker, VSCode, Vim                 |
-| 🌐 Web Security   | OWASP Top 10, SQL Injection, XSS        |
+- 🔐 Passionate about cybersecurity, ethical hacking, and protecting digital landscapes  
+- 🕵️‍♂️ Skilled in penetration testing, vulnerability assessment, and network security  
+- 🌱 Constantly learning new hacking techniques, tools, and emerging technologies  
+- 💬 Ask me about **Python**, **JavaScript**, or **Linux**  
+- 🎯 Goal: Make the internet safer — one bug at a time  
+- 📫 Reach me at: [evilmaxsec@proton.me](mailto:evilmaxsec@proton.me)
 
-## PROJECTS
+---
 
+## 🛠️ Tech Stack
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript" />
+  <img alt="C" src="https://img.shields.io/badge/-C-333333?style=flat-square&logo=c" />
+  <img alt="Bash" src="https://img.shields.io/badge/-Bash-333333?style=flat-square&logo=gnu-bash" />
+  <img alt="Kali Linux" src="https://img.shields.io/badge/-Kali_Linux-333333?style=flat-square&logo=kalilinux" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-333333?style=flat-square&logo=wireshark" />
+  <img alt="Metasploit" src="https://img.shields.io/badge/-Metasploit-333333?style=flat-square&logo=metasploit" />
+  <img alt="Nmap" src="https://img.shields.io/badge/-Nmap-333333?style=flat-square&logo=nmap" />
+  <img alt="Burp Suite" src="https://img.shields.io/badge/-Burp_Suite-333333?style=flat-square&logo=portainer" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker" />
+</p>
+
+---
+
+## 🧰 Skills & Tools
+
+| Category          | Tools & Technologies                      |
+|------------------|-------------------------------------------|
+| 💻 Programming    | Python, Bash, JavaScript, C               |
+| 🛡️ Pentesting     | Nmap, Metasploit, Burp Suite, Wireshark   |
+| 🖥️ Platforms      | Kali Linux, Parrot OS, Windows, Linux     |
+| 🔧 Dev Tools      | Git, Docker, VS Code, Vim                 |
+| 🌐 Web Security   | OWASP Top 10, SQLi, XSS, CSRF             |
+
+---
+
+## 🚀 Projects
+
+> Coming soon... 👀  
+(*Stay tuned for tools, scripts, and writeups.*)
+
+---
 
 ## ⚠️ Disclaimer
 
-This GitHub profile and projects are intended for educational and ethical hacking purposes only. Unauthorized use or hacking is illegal and unethical.
+> This GitHub profile and its content are intended for **educational and ethical hacking** purposes only.  
+> Unauthorized access, exploitation, or malicious hacking is **illegal** and **strictly discouraged**.
+
+---
+
