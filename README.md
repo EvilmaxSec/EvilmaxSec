@@ -14,7 +14,7 @@
 - 🌱 Constantly learning new hacking techniques, tools, and technologies.
 - 💬 Ask me about JavaScript, Python, or Linux
 - 🎯 Goal: Make the internet safer, one bug at a time.
-- 📫 How to reach me:
+- 📫 How to reach me: evilmaxSec@proton.me
 
 ## 🛠️ SKILLS & TOOLS
 
