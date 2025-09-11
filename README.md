@@ -51,10 +51,6 @@
 
 ---
 
-## 🚀 Projects
-**[Spy_Ninja](https://github.com/EvilmaxSec/Spy_Ninja)**
-
----
 
 ## ⚠️ Disclaimer
 
