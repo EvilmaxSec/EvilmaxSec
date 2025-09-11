@@ -52,9 +52,7 @@
 ---
 
 ## 🚀 Projects
-
-> Coming soon... 👀  
-(*Stay tuned for tools, scripts, and writeups.*)
+**[Spy_Ninja](https://github.com/EvilmaxSec/Spy_Ninja)**
 
 ---
 
