@@ -75,15 +75,9 @@
 
 ---
 
-## 🎵 Currently Jamming To
-
-[![Spotify](https://novatorem-custom.vercel.app/api/spotify?background_color=0D1117&border_color=00ff9f)](https://open.spotify.com/user/your_spotify_id)
-
----
-
 ## 🐍 Watch my Code Eat Up the Graph
 
-![Snake animation](https://github.com/EvilmaxSec/EvilmaxSec/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/EvilmaxSec/EvilmaxSec/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
