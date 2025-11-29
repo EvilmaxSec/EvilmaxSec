@@ -83,7 +83,7 @@
 
 ## 🐍 Watch my Code Eat Up the Graph
 
-![Snake animation](https://github.com/EvilmaxSec/EvilmaxSec/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/EvilmaxSec/EvilmaxSec/blob/output/github-contribution-grid-snake.gif)
 
 ---
 
