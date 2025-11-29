@@ -34,7 +34,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security+-0078D4?style=for-the-badge&logo=compTIA&logoColor=white" alt="Security+" />
   <img src="https://img.shields.io/badge/CEH-In_Progress-00FF9F?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CEH" />
-  <img src="https://img.shields.io/badge/TryHackMe-Top_43%-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   <img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
 </p>
 
@@ -46,13 +45,13 @@
   <a href="mailto:evilmaxsec@proton.me">
     <img alt="ProtonMail" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/EvilmaxSec">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://tryhackme.com/p/EvilmaxSec">
     <img alt="TryHackMe" src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>
-  <a href="https://www.hackthebox.com/home/users/profile/yourid">
+  <a href="https://www.hackthebox.com/home/users/profile/Evilmaxsec">
     <img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />
   </a>
 </p>
@@ -92,12 +91,6 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/EvilmaxSec">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EvilmaxSec&show_icons=true&hide_border=true&title_color=00ff9f&icon_color=00ff9f&text_color=ffffff&bg_color=0D1117&include_all_commits=true" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvilmaxSec&layout=compact&hide_border=true&title_color=00ff9f&text_color=ffffff&bg_color=0D1117&langs_count=8" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/EvilmaxSec">
@@ -112,27 +105,20 @@
 </p>
 
 ---
-
-## 📈 Contribution Activity
+## 📈 GitHub Overview
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=EvilmaxSec&theme=react-dark&hide_border=true&area=true&color=00FF9F&line=00FF9F&point=FFFFFF" width="100%" />
+  <a href="https://github.com/EvilmaxSec">
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EvilmaxSec&theme=github_dark" />
+  </a>
 </p>
 
----
-
-## 💼 Featured Projects
-
-### 🔐 Security Tools
-- **[Vulnerability Scanner](https://github.com/EvilmaxSec/vuln-scanner)** - Python-based web app security scanner
-- **[Network Monitor](https://github.com/EvilmaxSec/network-monitor)** - Real-time network traffic analysis
-- **[PenTest Framework](https://github.com/EvilmaxSec/pentest-framework)** - Automated penetration testing toolkit
-
-### 🛠️ Utilities
-- **[Script Collection](https://github.com/EvilmaxSec/scripts)** - Useful cybersecurity scripts and automation
-- **[Security Configs](https://github.com/EvilmaxSec/security-configs)** - Hardened system configurations
-
----
+<p align="center">
+  <a href="https://github.com/EvilmaxSec">
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EvilmaxSec&theme=github_dark" />
+    <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EvilmaxSec&theme=github_dark" />
+  </a>
+</p>
 
 ## ⚠️ Legal & Ethical Disclaimer
 
