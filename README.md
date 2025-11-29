@@ -77,7 +77,7 @@
 
 ## 🐍 Watch my Code Eat Up the Graph
 
-![Snake game](https://raw.githubusercontent.com/EvilmaxSec/EvilmaxSec/output/snake.gif)
+![Snake](https://raw.githubusercontent.com/EvilmaxSec/EvilmaxSec/output/github-contribution-grid-snake.svg?refresh=1)
 
 ---
 
