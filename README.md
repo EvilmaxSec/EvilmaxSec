@@ -8,13 +8,15 @@
   <img src="coding-vibe.gif" alt="coding GIF" width="400" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/EvilmaxSec?tab=repositories">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/EvilmaxSec?color=00ff9f&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/EvilmaxSec?color=00ff9f&labelColor=0D1117&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/EvilmaxSec?tab=repositories">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/EvilmaxSec?color=00ff9f&style=for-the-badge&labelColor=0D1117&logo=star"/></a>
-   <img src="https://komarev.com/ghpvc/?username=EvilmaxSec&label=Profile%20Views&color=00ff9f&style=for-the-badge" alt="EvilmaxSec" />
+    <img alt="total stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/EvilmaxSec?color=00ff9f&style=for-the-badge&labelColor=0D1117&logo=github"/></a>
+  <img src="https://komarev.com/ghpvc/?username=EvilmaxSec&label=Profile%20Views&color=00ff9f&style=for-the-badge&labelColor=0D1117" alt="EvilmaxSec" />
 </p>
+
 
 ---
 
@@ -90,13 +92,6 @@
 ---
 
 ## 📊 GitHub Analytics
-
-
-<p align="center">
-  <a href="https://github.com/EvilmaxSec">
-    <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=EvilmaxSec&theme=black-ice&hide_border=true&stroke=00ff9f&ring=00ff9f&fire=00ff9f&currStreakLabel=00ff9f&background=0D1117" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/EvilmaxSec">
