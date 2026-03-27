@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+EvilmaxSec;Ethical+Hacker+%F0%9F%94%91;Cybersecurity+Enthusiast+%F0%9F%92%BB;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=00FF9F&center=true&vCenter=true&width=600&height=70&lines=Hey+there!+I'm+EvilmaxSec;Ethical+Hacker+%F0%9F%94%91;From+Tanzania+%F0%9F%87%B9%F0%9F%87%BF;Tech+Explorer+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -22,7 +22,7 @@
 
 ## 🧠 About Me
 
-- 🔐 **Cybersecurity Analyst & Ethical Hacker** passionate about protecting digital landscapes
+- 🔐 **Cybersecurity Analyst & Ethical Hacker from Tanzania🇹🇿** passionate about protecting digital landscapes
 - 🕵️‍♂️ Skilled in **penetration testing**, **vulnerability assessment**, and **network security**
 - 🌱 Constantly learning new hacking techniques, tools, and emerging technologies
 - 💬 Ask me about **Python**, **JavaScript**, **Linux**, or **Web Application Security**
