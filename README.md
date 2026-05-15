@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="coding-vibe.gif" alt="coding GIF" width="400" />
+  <img src="evilmaxsec.gif" alt="coding GIF" width="400" />
 </p>
 
 <p align="center">
