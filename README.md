@@ -86,8 +86,6 @@
   </a>
 </p>
 
----
-
 ## 🛠️ Tech Stack & Tools
 
 ### 💻 Programming Languages
@@ -147,36 +145,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EvilmaxSec&theme=rogue&hide_border=true&bg_color=0D1117&color=00FF9F&line=FF6B6B&point=00FF9F&area_color=1f6feb" alt="Activity Graph" />
 </p>
-
-### 📊 Advanced Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total_Repositories-3-FF6B6B?style=flat-square&labelColor=0D1117" alt="Repos" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total_Stars-11-00FF9F?style=flat-square&labelColor=0D1117" alt="Stars" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Followers-114-9FEF00?style=flat-square&labelColor=0D1117" alt="Followers" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Following-109-8B89CC?style=flat-square&labelColor=0D1117" alt="Following" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Public_Gists-0-FF1493?style=flat-square&labelColor=0D1117" alt="Gists" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Verified-✓-00FF9F?style=flat-square&labelColor=0D1117" alt="Verified" />
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🎓 Areas of Expertise
