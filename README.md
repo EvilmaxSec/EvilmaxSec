@@ -28,7 +28,7 @@
 
 ### 🧠 About Me
 
-- 🔐 **Cybersecurity Analyst & Ethical Hacker from Tanzania** 🇹🇿 passionate about protecting digital landscapes
+- 🔐 **Security researcher & Ethical Hacker from Tanzania** 🇹🇿 passionate about protecting digital landscapes
 - 🕵️‍♂️ Specialized in **penetration testing**, **vulnerability assessment**, **network security**, and **web application security**
 - 🌱 Constantly learning emerging technologies and security methodologies
 - 💬 Ask me about **Python**, **JavaScript**, **Linux**, **Docker**, or **Web Security**
