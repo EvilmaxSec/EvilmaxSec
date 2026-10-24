@@ -37,15 +37,18 @@
 
 ### 🚀 What I Do
 
-```
-┌─────────────────────────────────┐
-│  🔍 Security Research           │
-│  🎯 Penetration Testing         │
-│  🐛 Bug Bounty Hunting          │
-│  🛡️  Vulnerability Assessment   │
-│  📚 Tech Writing & Tutorials    │
-└─────────────────────────────────┘
-```
+<table align="center">
+  <tr>
+    <td align="center">🔍 <b>Security Research</b></td>
+    <td align="center">🎯 <b>Penetration Testing</b></td>
+    <td align="center">🐛 <b>Bug Bounty Hunting</b></td>
+  </tr>
+  <tr>
+    <td align="center">🛡️ <b>Vulnerability Assessment</b></td>
+    <td align="center">📚 <b>Tech Writing & Tutorials</b></td>
+    <td align="center">⚙️ <b>Security Automation</b></td>
+  </tr>
+</table>
 
 ---
 
@@ -53,13 +56,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/CompTIA_Security+-0078D4?style=for-the-badge&logo=compTIA&logoColor=white" alt="Security+" />
-  <img src="https://img.shields.io/badge/CEH-In_Progress-00FF9F?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CEH" />
+ <img src="https://img.shields.io/badge/CEH-Certified-00FF9F?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="CEH" />
   <img src="https://img.shields.io/badge/HackTheBox-Pro_Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox" />
   <img src="https://img.shields.io/badge/TryHackMe-Top_20%25-FF6B6B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
 </p>
 
 ### 📈 Current Goals
-- 🎓 Pursuing **Certified Ethical Hacker (CEH)** certification
 - 🏅 Targeting **OSCP** in 2026
 - 🌍 Contributing to open-source security projects
 - 💪 Building a comprehensive security toolkit
@@ -83,6 +85,9 @@
   </a>
   <a href="https://twitter.com/evilmaxsec" title="Follow me on X">
     <img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://buymeacoffee.com/EvilmaxSec" title="Buy me a coffee">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
 
@@ -198,6 +203,21 @@ I believe in **ethical hacking** and **responsible disclosure**. Every vulnerabi
 - 🤝 Contributing to open-source security projects
 - 🏆 Participating in CTF challenges and bug bounty programs
 - 🌱 Mentoring aspiring cybersecurity professionals
+
+---
+
+## ☕ Support My Work
+
+<p align="center">
+  <b>If my open-source tools, writeups, or research have helped you, consider buying me a coffee!</b><br>
+  <sub>Your support helps fund my lab environments, certifications, and late-night research sessions.</sub>
+</p>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/EvilmaxSec" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
 
 ---
 
