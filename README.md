@@ -40,7 +40,8 @@
 <table align="center">
   <tr>
     <td align="center">🔍 <b>Security Research</b></td>
-    <td align="center">🎯 <b>Penetration Testing</b></td>
+    <td align="center">🎯 <b>Web Pentest</b></td>
+    <td align="center">📱 <b>Android Pentest</b></td>
     <td align="center">🐛 <b>Bug Bounty Hunting</b></td>
   </tr>
   <tr>
